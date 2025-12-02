@@ -60,7 +60,7 @@
 		<img src="image/cart-img-1.png">
 		<div class="content">
 			<h3>watermelon</h3>
-			<span class="price">₹2.99/-</span>
+			<span class="price">\"\u20B9"+2.99/-</span>
 			<span class="quantity">qty : 1</span>
 
 </div>
